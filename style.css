@@ -232,7 +232,7 @@ p{
 .contact{
     position: relative;
     padding: 100px 0;
-    background: url(../img/contactbg.jpg);
+    background: url(img/contactbg.jpg);
     background-size: cover;
     min-height: 100vh;
 }
