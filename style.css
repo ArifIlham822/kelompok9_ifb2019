@@ -196,6 +196,11 @@ p{
     margin-top: 20px;
 }
 /* 3 */
+.blog{
+    position: relative;
+    width: 100px 0;
+    background: #000;
+}
 .blogpost{
     position: relative;
     width: 100%;
